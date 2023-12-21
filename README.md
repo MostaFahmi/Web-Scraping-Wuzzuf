@@ -5,5 +5,5 @@ In this project, I utilized web scraping techniques to extract valuable data fro
 
 ## Tools and Technologies
 - **Programming Language:** Python
-- **Web Scraping Library:** Beautiful Soup, Requests
+- **Web Scraping Library:** Beautiful Soup, Requests, and Selenium
 - **Data Storage:** CSV file for collected data
